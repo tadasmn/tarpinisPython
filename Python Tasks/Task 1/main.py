@@ -38,4 +38,4 @@ def filterAdults(users):
       filterAdulst2.append(y)
   return filterAdulst2
 
-print(f"Useriai kurie yra pilnameciai:", filterAdults(users))
+print(f"Useriai kurie yra pilnameciai:",filterAdults(users))
